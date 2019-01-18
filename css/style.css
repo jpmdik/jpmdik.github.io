@@ -69,4 +69,9 @@ body {
 		border:20px inset #2269b6;
 		background: transparent url(../img/bg-dois.jpg);
 	}
+
+	.moldura-um{
+		display: table;
+  		margin: 0 auto;
+	}
 }
