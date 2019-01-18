@@ -49,7 +49,6 @@ $( document ).ready(function() {
           $("#loading").addClass("d-none");
           $("#confirmacao").removeClass("d-none");
         }
-        console.log(result);
       },
       error: function (request, status, error) {
         result = "";
